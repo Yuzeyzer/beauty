@@ -1,0 +1,22 @@
+.phone__number {
+  font-size: 16px;
+  line-height: 19px;
+  margin-right: 40px;
+}
+
+.phone__btn {
+  font-size: 14px;
+  line-height: 16px;
+  padding: 12px 26px;
+  background: #FFFFFF;
+  border: 2px solid #F13C6E;
+  box-sizing: border-box;
+  border-radius: 40px;
+  outline: none;
+  transition: 0.3s;
+}
+.phone__btn:hover {
+  background: #F13C6E;
+  color: white;
+  cursor: pointer;
+}
